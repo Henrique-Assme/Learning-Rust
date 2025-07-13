@@ -1,0 +1,15 @@
+[workspace]
+members = [
+    "5-structs/structs",
+    "2-guessing-game/guessing_game",
+    "1-hello-world/hello-cargo",
+    "3-common-concepts/functions",
+    "3-common-concepts/control-flow",
+    "3-common-concepts/variables",
+    "3-common-concepts/compound-types",
+    "3-common-concepts/data-types",
+    "4-ownership/slices",
+    "4-ownership/ownership",
+    "4-ownership/functions_ownership", 
+    "6-enum-pattern-matching/enums", "6-enum-pattern-matching/option-enum", "6-enum-pattern-matching/pattern-matching",
+]
