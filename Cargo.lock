@@ -82,6 +82,10 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "1171693293099992e19cddea4e8b849964e9846f4acee11b3948bcc337be8776"
 
 [[package]]
+name = "my-project"
+version = "0.1.0"
+
+[[package]]
 name = "option-enum"
 version = "0.1.0"
 
@@ -120,6 +124,10 @@ name = "rand_core"
 version = "0.4.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "9c33a3c44ca05fa6f1807d8e6743f3824e8509beca625669633be0acbdf509dc"
+
+[[package]]
+name = "restaurant"
+version = "0.1.0"
 
 [[package]]
 name = "slices"

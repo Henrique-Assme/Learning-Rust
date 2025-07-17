@@ -11,5 +11,5 @@ members = [
     "4-ownership/slices",
     "4-ownership/ownership",
     "4-ownership/functions_ownership", 
-    "6-enum-pattern-matching/enums", "6-enum-pattern-matching/option-enum", "6-enum-pattern-matching/pattern-matching",
+    "6-enum-pattern-matching/enums", "6-enum-pattern-matching/option-enum", "6-enum-pattern-matching/pattern-matching", "7-module-system/my-project", "7-module-system/restaurant",
 ]
