@@ -16,5 +16,5 @@ members = [
     "6-enum-pattern-matching/pattern-matching",
     "7-module-system/my-project", 
     "7-module-system/restaurant", 
-    "8-common-collections/vectors", "8-common-collections/strings", "8-common-collections/hashmaps",
+    "8-common-collections/vectors", "8-common-collections/strings", "8-common-collections/hashmaps", "9-error-handling/errors",
 ]
